@@ -30,9 +30,3 @@
 
 - 🖥 I’m currently working on https://azkisarmayeh.com
 
-
-</br>
-
-<p align="center">
- <a href="#" alt="Omid Rafiee's github stats"><img src="https://github-readme-stats.vercel.app/api?username=amirrezamahmoudzadeh" /></a>
-</p
